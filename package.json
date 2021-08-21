@@ -1,0 +1,14 @@
+{
+	"name": "tailwind_trav",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build:css": "tailwind build -i src/style.css -o style.css"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"tailwindcss": "^2.2.7"
+	}
+}
